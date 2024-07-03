@@ -1,0 +1,7 @@
+import = [
+"~/.config/alacritty/alacritty_ext_conf/keybindings.toml",
+"~/.config/alacritty/alacritty_ext_conf/window.toml",
+"~/.config/alacritty/alacritty_ext_conf/colors.toml",
+]
+[font]
+size = 13.5

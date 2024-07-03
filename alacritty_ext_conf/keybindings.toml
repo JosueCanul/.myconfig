@@ -1,0 +1,6 @@
+[keyboard]
+bindings = [
+{key = "N", mods = "Control | Shift", action = "SpawnNewInstance"},
+{key = "E", mods = "Control | Shift", action = "Quit"},
+{key = "H", mods = "Control | Shift", action = "Hide"},
+]
